@@ -68,8 +68,6 @@ const styles = StyleSheet.create({
     overflow: "hidden",
   },
   bar: {
-    // backgroundColor: "red",
-    // width: "100%",
     height: 5,
     borderRadius: 20,
   },
